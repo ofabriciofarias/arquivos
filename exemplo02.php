@@ -22,6 +22,7 @@ foreach ($imagens as $img) {
 		array_push($data, $info);
 	}
 }
+//Teste no código
 
 
 echo json_encode($data);
